@@ -1,6 +1,6 @@
 # Cryptography
 
-This curicular unit aims to acquire knowledge about encryption algorithms. 
+This curricular unit aims to develop knowledge about encryption algorithms. 
 
 At the end of the course students basic cryptography and security mechanisms should be mastered.
 
